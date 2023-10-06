@@ -1,1 +1,2 @@
 # netflix-clone
+This repository contains a responsive web design project that serves as a basic clone of the Netflix website using HTML and CSS. It includes a homepage layout resembling Netflix's design, responsive navigation, and some sample content. Please note that this is a starting point, and you may want to enhance it by adding more features, improving the design, and implementing interactivity using JavaScript.
